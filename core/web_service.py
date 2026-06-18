@@ -9,8 +9,8 @@ def hacer_ping(dominio):
 
 def escanear_servicios_web():
     servicios = {
-        "caprat.cl": hacer_ping("caprat.cl"),
-        "napsis.cl": hacer_ping("napsis.cl"),
-        "sige.mineduc.cl": hacer_ping("sige.mineduc.cl")
+        "tupagina.cl": hacer_ping("tupagina.cl"),
+        "tuotrapagina.cl": hacer_ping("tuotrapagina.cl"),
+        "tu.pagina.cl": hacer_ping("tu.pagina.cl")
     }
     return servicios
