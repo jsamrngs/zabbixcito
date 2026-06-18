@@ -7,7 +7,7 @@ def menu_principal():
         print("\n==============================================")
         print("   MINI SISTEMA DE MONITOREO DE RED - V.1.0")
         print("==============================================")
-        print("1. Iniciar monitoreo de red y servicios académicos")
+        print("1. Iniciar monitoreo de red y servicios")
         print("2. Escanear servicios web")
         print("3. Test de calidad de internet")
         print("4. Salir del sistema")
